@@ -1,0 +1,55 @@
+2019-06-30 15:30:27,127 - INFO - *--------------------------------- Check 1 ---------------------------------*
+2019-06-30 15:30:27,937 - INFO - Website https://www.google.pl is loaded properly. Code: 200
+2019-06-30 15:30:27,937 - INFO - Whole response time of https://www.google.pl is 10 ms
+2019-06-30 15:30:27,938 - INFO - Website https://www.google.pl contains required phrase: "Zaloguj"
+2019-06-30 15:30:27,938 - INFO - Website https://www.google.pl contains required phrase: "Google"
+2019-06-30 15:30:27,938 - ERROR - Website https://www.google.pl does not contain the required phrase: "Google do not spy"
+2019-06-30 15:30:29,628 - INFO - Website https://www.onet.pl is loaded properly. Code: 200
+2019-06-30 15:30:29,628 - INFO - Whole response time of https://www.onet.pl is 1296 ms
+2019-06-30 15:30:29,633 - INFO - Website https://www.onet.pl contains required phrase: "email"
+2019-06-30 15:30:30,592 - INFO - Website https://www.facebook.com/ is loaded properly. Code: 200
+2019-06-30 15:30:30,593 - INFO - Whole response time of https://www.facebook.com/ is 158 ms
+2019-06-30 15:30:30,594 - ERROR - Website https://www.facebook.com/ does not contain the required phrase: "Zuckerberg rulez"
+2019-06-30 15:30:30,594 - INFO - Website https://www.facebook.com/ contains required phrase: "Zaloguj"
+2019-06-30 15:30:30,660 - ERROR - It is not possible to open https://ww.faceboka.co/ because [Errno 11001] getaddrinfo failed
+2019-06-30 15:30:32,669 - INFO - Website http://localhost:8080/MyTestPage.html is loaded properly. Code: 200
+2019-06-30 15:30:32,669 - INFO - Whole response time of http://localhost:8080/MyTestPage.html is 0 ms
+2019-06-30 15:30:32,669 - INFO - Website http://localhost:8080/MyTestPage.html contains required phrase: "Hehe"
+2019-06-30 15:30:32,669 - INFO - Check number 1 is done
+2019-06-30 15:30:37,670 - INFO - *--------------------------------- Check 2 ---------------------------------*
+2019-06-30 15:30:39,447 - INFO - Website https://www.google.pl is loaded properly. Code: 200
+2019-06-30 15:30:39,447 - INFO - Whole response time of https://www.google.pl is 906 ms
+2019-06-30 15:30:39,447 - INFO - Website https://www.google.pl contains required phrase: "Zaloguj"
+2019-06-30 15:30:39,447 - INFO - Website https://www.google.pl contains required phrase: "Google"
+2019-06-30 15:30:39,447 - ERROR - Website https://www.google.pl does not contain the required phrase: "Google do not spy"
+2019-06-30 15:30:42,493 - INFO - Website https://www.onet.pl is loaded properly. Code: 200
+2019-06-30 15:30:42,493 - INFO - Whole response time of https://www.onet.pl is 2312 ms
+2019-06-30 15:30:42,499 - INFO - Website https://www.onet.pl contains required phrase: "email"
+2019-06-30 15:30:45,239 - INFO - Website https://www.facebook.com/ is loaded properly. Code: 200
+2019-06-30 15:30:45,239 - INFO - Whole response time of https://www.facebook.com/ is 634 ms
+2019-06-30 15:30:45,240 - ERROR - Website https://www.facebook.com/ does not contain the required phrase: "Zuckerberg rulez"
+2019-06-30 15:30:45,240 - INFO - Website https://www.facebook.com/ contains required phrase: "Zaloguj"
+2019-06-30 15:30:45,250 - ERROR - It is not possible to open https://ww.faceboka.co/ because [Errno 11001] getaddrinfo failed
+2019-06-30 15:30:47,261 - INFO - Website http://localhost:8080/MyTestPage.html is loaded properly. Code: 200
+2019-06-30 15:30:47,261 - INFO - Whole response time of http://localhost:8080/MyTestPage.html is 1 ms
+2019-06-30 15:30:47,262 - INFO - Website http://localhost:8080/MyTestPage.html contains required phrase: "Hehe"
+2019-06-30 15:30:47,262 - INFO - Check number 2 is done
+2019-06-30 15:30:52,262 - INFO - *--------------------------------- Check 3 ---------------------------------*
+2019-06-30 15:30:52,897 - INFO - Website https://www.google.pl is loaded properly. Code: 200
+2019-06-30 15:30:52,897 - INFO - Whole response time of https://www.google.pl is 10 ms
+2019-06-30 15:30:52,897 - INFO - Website https://www.google.pl contains required phrase: "Zaloguj"
+2019-06-30 15:30:52,897 - INFO - Website https://www.google.pl contains required phrase: "Google"
+2019-06-30 15:30:52,898 - ERROR - Website https://www.google.pl does not contain the required phrase: "Google do not spy"
+2019-06-30 15:30:55,623 - INFO - Website https://www.onet.pl is loaded properly. Code: 200
+2019-06-30 15:30:55,623 - INFO - Whole response time of https://www.onet.pl is 2365 ms
+2019-06-30 15:30:55,629 - INFO - Website https://www.onet.pl contains required phrase: "email"
+2019-06-30 15:30:56,952 - INFO - Website https://www.facebook.com/ is loaded properly. Code: 200
+2019-06-30 15:30:56,952 - INFO - Whole response time of https://www.facebook.com/ is 155 ms
+2019-06-30 15:30:56,953 - ERROR - Website https://www.facebook.com/ does not contain the required phrase: "Zuckerberg rulez"
+2019-06-30 15:30:56,953 - INFO - Website https://www.facebook.com/ contains required phrase: "Zaloguj"
+2019-06-30 15:30:56,963 - ERROR - It is not possible to open https://ww.faceboka.co/ because [Errno 11001] getaddrinfo failed
+2019-06-30 15:30:58,973 - INFO - Website http://localhost:8080/MyTestPage.html is loaded properly. Code: 200
+2019-06-30 15:30:58,973 - INFO - Whole response time of http://localhost:8080/MyTestPage.html is 0 ms
+2019-06-30 15:30:58,974 - INFO - Website http://localhost:8080/MyTestPage.html contains required phrase: "Hehe"
+2019-06-30 15:30:58,974 - INFO - Check number 3 is done
+2019-06-30 15:30:58,974 - INFO - Set amount of checks is done!
